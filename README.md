@@ -49,5 +49,5 @@ This project improves skills in:
 - Data visualization and interactive reporting
 - Deriving actionable insights from raw retail data
   
-##Author
+## Author
 Amandeep Singh Saluja
